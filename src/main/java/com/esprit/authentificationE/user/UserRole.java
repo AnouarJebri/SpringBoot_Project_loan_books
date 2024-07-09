@@ -1,4 +1,4 @@
-package com.esprit.springbootapp.models;
+package com.esprit.authentificationE.user;
 
 public enum UserRole {
     ADMIN,
